@@ -1,0 +1,5 @@
+/node_module
+.scannerwork
+sonarqube/extensions
+sonarqube/data
+sonarqube/logs
